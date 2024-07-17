@@ -1,0 +1,60 @@
+#bar {
+    display: flex;
+    background-color: rgb(40, 90, 90);
+    height: 50px;
+    margin-top: -7.5px;
+    margin-left: -7.5px;
+    margin-right: -7.5px;
+}
+.barr {
+    width: 50%;
+    display: flex;
+}
+ul {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    font-weight: bold;
+    display: flex;  
+}
+li {
+    margin-top: 12.55;
+    width: 12.5%;
+    background-color: rgb(60, 110,120);
+    margin-left: 5px;
+    text-align: center;
+    height: 25px;
+    border-left: solid white 2pt;
+    
+}
+li:hover {
+    background-color: rgb(60, 120, 120);
+    font-size: 13pt;
+    
+}
+form {
+    width: 90%;
+    margin-top: 12.5px;
+}
+select {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 12.5%;
+    height: 25px;
+    margin-top: 12.5px;
+    background-color: rgb(60, 110, 120);
+
+}
+input {
+    background-color: rgb(60, 110, 120);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+select:hover {
+    font-size: 13pt;
+}
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
